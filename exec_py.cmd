@@ -1,0 +1,1 @@
+for %%i in (preprocess.py augmentation.py even_files_num.py split.py) do E:\Users\gei_d\AppData\Local\Programs\Python\Python37\python %%i 
